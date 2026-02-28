@@ -12,3 +12,5 @@ De grootste veroorzaker van stress is tijdnood. Door op tijd te beginnen (het li
 
 ## 2. Zorg voor voldoende slaap
 Tijdens je slaap verwerkt je brein alle informatie...
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8c5d0f3f-c527-4f8e-8486-29b9f3f5a354" />
+
