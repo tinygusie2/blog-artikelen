@@ -1,10 +1,14 @@
+
 ---
-title: Pomodoro methode voor scholieren
-description: Heb jij ooit eens gehoord wat een pomodoro timer is, en hoe het je kan helpen tijdens het leren?
-icon: stopwatch
-date: 2026-02-28
-color_bg: var(--event-afspraak-bg)
-color_icon: var(--event-afspraak-text)
+title: 5 Tips tegen PWW Stress
+description: Stress voor je toetsen? Met deze 5 simpele maar effectieve tips kom je helemaal tot rust en presteer je beter.
+icon: psychology
+color_bg: var(--event-taak-bg)
+color_icon: var(--event-taak-text)
 ---
 
-# TEST TEST
+## 1. Begin op tijd
+De grootste veroorzaker van stress is tijdnood. Door op tijd te beginnen (het liefst 1 tot 2 weken voor je proefwerkweek), hoef je per dag maar een klein beetje te doen.
+
+## 2. Zorg voor voldoende slaap
+Tijdens je slaap verwerkt je brein alle informatie...
