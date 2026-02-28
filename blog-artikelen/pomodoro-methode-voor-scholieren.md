@@ -1,8 +1,8 @@
-
 ---
-title: 5 Tips tegen PWW Stress
+title: HIJ WERKT
 description: Stress voor je toetsen? Met deze 5 simpele maar effectieve tips kom je helemaal tot rust en presteer je beter.
 icon: psychology
+date: 2026-2-28
 color_bg: var(--event-taak-bg)
 color_icon: var(--event-taak-text)
 ---
