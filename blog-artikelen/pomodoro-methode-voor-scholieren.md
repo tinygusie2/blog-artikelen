@@ -1,3 +1,4 @@
+---
 title: Pomodoro methode voor scholieren
 description: Heb jij ooit eens gehoord wat een pomodoro timer is, en hoe het je kan helpen tijdens het leren?
 icon: stopwatch
