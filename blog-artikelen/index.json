@@ -1,0 +1,341 @@
+[
+  {
+    "slug": "studeren-met-muziek-tips",
+    "file": "studeren-met-muziek-tips.md",
+    "title": "Studeren met muziek: Welke muziek helpt je echt focussen?",
+    "description": "Helpt muziek luisteren jou bij het leren, of leidt het juist af? Ontdek welke muzieksoorten je concentratie een boost geven.",
+    "icon": "music_note",
+    "date": "2026-09-01",
+    "category": "Focus",
+    "tags": [
+      "muziek",
+      "concentratie",
+      "lofi",
+      "focus playlist"
+    ],
+    "related": [
+      "concentratie-verbeteren-leren",
+      "ideale-studieplek-inrichten",
+      "pomodoro-methode-voor-scholieren"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-afspraak-bg)",
+    "color_icon": "var(--event-afspraak-text)",
+    "words": 867,
+    "readingTime": 4
+  },
+  {
+    "slug": "effectief-samenvatten-tips",
+    "file": "effectief-samenvatten-tips.md",
+    "title": "Effectief samenvatten: Zo scheid je hoofd- en bijzaken",
+    "description": "Maak jij ook samenvattingen die bijna net zo lang zijn als het boek zelf? Leer hoe je echt effectief samenvat.",
+    "icon": "assignment",
+    "date": "2026-08-29",
+    "category": "Samenvatten",
+    "tags": [
+      "samenvatten",
+      "aantekeningen",
+      "hoofdzaken",
+      "signaalwoorden"
+    ],
+    "related": [
+      "perfecte-mindmap-toetsen",
+      "active-recall-studeren",
+      "feynman-techniek-studeren"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-taak-bg)",
+    "color_icon": "var(--event-taak-text)",
+    "words": 848,
+    "readingTime": 4
+  },
+  {
+    "slug": "ideale-studieplek-inrichten",
+    "file": "ideale-studieplek-inrichten.md",
+    "title": "Richt je ideale studieplek in voor betere resultaten",
+    "description": "Je omgeving heeft een enorme invloed op hoe goed je leert. Richt je studieplek optimaal in met deze handige tips.",
+    "icon": "desk",
+    "date": "2026-08-26",
+    "category": "Focus",
+    "tags": [
+      "studieplek",
+      "bureau",
+      "opruimen",
+      "omgeving"
+    ],
+    "related": [
+      "concentratie-verbeteren-leren",
+      "pomodoro-methode-voor-scholieren",
+      "studeren-met-muziek-tips"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-afspraak-bg)",
+    "color_icon": "var(--event-afspraak-text)",
+    "words": 916,
+    "readingTime": 5
+  },
+  {
+    "slug": "toetsstress-verminderen-tips",
+    "file": "toetsstress-verminderen-tips.md",
+    "title": "Minder stress voor je toetsen: 5 praktische tips",
+    "description": "Heb je last van faalangst of toetsstress? Met deze tips ga je rustiger en met meer zelfvertrouwen je proefwerkweek in.",
+    "icon": "self_improvement",
+    "date": "2026-08-23",
+    "category": "Toetsen",
+    "tags": [
+      "toetsstress",
+      "faalangst",
+      "proefwerkweek",
+      "ademhaling"
+    ],
+    "related": [
+      "studieplanning-maken-tips",
+      "spaced-repetition-leren",
+      "concentratie-verbeteren-leren"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-toets-bg)",
+    "color_icon": "var(--event-toets-text)",
+    "words": 954,
+    "readingTime": 5
+  },
+  {
+    "slug": "studieplanning-maken-tips",
+    "file": "studieplanning-maken-tips.md",
+    "title": "Waarom een goede studieplanning goud waard is",
+    "description": "Voorkom stress en nachtwerk tijdens de proefwerkweek. Ontdek hoe een realistische planning je rust en betere cijfers oplevert.",
+    "icon": "calendar_today",
+    "date": "2026-08-20",
+    "category": "Toetsen",
+    "tags": [
+      "studieplanning",
+      "proefwerkweek",
+      "plannen",
+      "uitstelgedrag"
+    ],
+    "related": [
+      "pomodoro-methode-voor-scholieren",
+      "toetsstress-verminderen-tips",
+      "spaced-repetition-leren"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-toets-bg)",
+    "color_icon": "var(--event-toets-text)",
+    "words": 937,
+    "readingTime": 5
+  },
+  {
+    "slug": "flashcards-maken-gebruiken",
+    "file": "flashcards-maken-gebruiken.md",
+    "title": "Slimmer leren met Flashcards: Zo doe je dat",
+    "description": "Flashcards zijn een krachtige tool om woordjes en begrippen te stampen. Leer hoe je ze effectief maakt en gebruikt.",
+    "icon": "style",
+    "date": "2026-08-17",
+    "category": "Leerstrategie",
+    "tags": [
+      "flashcards",
+      "woordjes leren",
+      "leitner",
+      "geheugen"
+    ],
+    "related": [
+      "active-recall-studeren",
+      "spaced-repetition-leren",
+      "uitgelicht"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-huiswerk-bg)",
+    "color_icon": "var(--event-huiswerk-text)",
+    "words": 1024,
+    "readingTime": 5
+  },
+  {
+    "slug": "concentratie-verbeteren-leren",
+    "file": "concentratie-verbeteren-leren.md",
+    "title": "Hoe verbeter je je concentratie tijdens het leren?",
+    "description": "Heb je snel last van afleiding tijdens het studeren? Met deze praktische concentratietips blijf je gefocust en werk je efficiënter.",
+    "icon": "center_focus_strong",
+    "date": "2026-08-14",
+    "category": "Focus",
+    "tags": [
+      "concentratie",
+      "afleiding",
+      "telefoon",
+      "focus"
+    ],
+    "related": [
+      "pomodoro-methode-voor-scholieren",
+      "ideale-studieplek-inrichten",
+      "studeren-met-muziek-tips"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-afspraak-bg)",
+    "color_icon": "var(--event-afspraak-text)",
+    "words": 920,
+    "readingTime": 5
+  },
+  {
+    "slug": "active-recall-studeren",
+    "file": "active-recall-studeren.md",
+    "title": "Active Recall: Waarom passief lezen niet werkt",
+    "description": "Leer effectiever door je hersenen actief aan het werk te zetten met Active Recall. Dé manier om hoge cijfers te halen.",
+    "icon": "psychology",
+    "date": "2026-08-11",
+    "category": "Leerstrategie",
+    "tags": [
+      "active recall",
+      "geheugen",
+      "leren voor een toets",
+      "overhoren"
+    ],
+    "related": [
+      "flashcards-maken-gebruiken",
+      "spaced-repetition-leren",
+      "feynman-techniek-studeren"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-huiswerk-bg)",
+    "color_icon": "var(--event-huiswerk-text)",
+    "words": 1019,
+    "readingTime": 5
+  },
+  {
+    "slug": "feynman-techniek-studeren",
+    "file": "feynman-techniek-studeren.md",
+    "title": "De Feynman techniek: Leer sneller door het uit te leggen",
+    "description": "Wil je complexe stof echt begrijpen? Met de Feynman techniek leg je de stof uit in simpele taal en ontdek je direct je valkuilen.",
+    "icon": "lightbulb",
+    "date": "2026-08-08",
+    "category": "Leerstrategie",
+    "tags": [
+      "feynman techniek",
+      "begrijpen",
+      "uitleggen",
+      "natuurkunde"
+    ],
+    "related": [
+      "active-recall-studeren",
+      "perfecte-mindmap-toetsen",
+      "effectief-samenvatten-tips"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-huiswerk-bg)",
+    "color_icon": "var(--event-huiswerk-text)",
+    "words": 841,
+    "readingTime": 4
+  },
+  {
+    "slug": "spaced-repetition-leren",
+    "file": "spaced-repetition-leren.md",
+    "title": "Wat is Spaced Repetition en hoe gebruik je het?",
+    "description": "Ontdek hoe de methode van gespreide herhaling (spaced repetition) je helpt om lesstof voor de lange termijn te onthouden.",
+    "icon": "repeat",
+    "date": "2026-08-05",
+    "category": "Leerstrategie",
+    "tags": [
+      "spaced repetition",
+      "herhalen",
+      "geheugen",
+      "vergeetcurve"
+    ],
+    "related": [
+      "active-recall-studeren",
+      "flashcards-maken-gebruiken",
+      "studieplanning-maken-tips"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-huiswerk-bg)",
+    "color_icon": "var(--event-huiswerk-text)",
+    "words": 953,
+    "readingTime": 5
+  },
+  {
+    "slug": "uitgelicht",
+    "file": "uitgelicht.md",
+    "title": "Snel en effectief woordjes leren voor talen",
+    "description": "Worstel je met eindeloze lijsten Franse of Duitse woorden? Zo leer je ze sneller en efficiënter.",
+    "icon": "translate",
+    "date": "2026-08-02",
+    "category": "Leerstrategie",
+    "tags": [
+      "woordjes leren",
+      "frans",
+      "duits",
+      "engels",
+      "woordenschat"
+    ],
+    "related": [
+      "flashcards-maken-gebruiken",
+      "spaced-repetition-leren",
+      "active-recall-studeren"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-huiswerk-bg)",
+    "color_icon": "var(--event-huiswerk-text)",
+    "words": 870,
+    "readingTime": 4
+  },
+  {
+    "slug": "perfecte-mindmap-toetsen",
+    "file": "perfecte-mindmap-toetsen.md",
+    "title": "Hoe maak je de perfecte mindmap voor je toetsen?",
+    "description": "Ontdek hoe mindmaps je kunnen helpen om complexe lesstof sneller te begrijpen en beter te onthouden.",
+    "icon": "account_tree",
+    "date": "2026-07-28",
+    "category": "Samenvatten",
+    "tags": [
+      "mindmap",
+      "overzicht",
+      "verbanden",
+      "visueel leren"
+    ],
+    "related": [
+      "effectief-samenvatten-tips",
+      "feynman-techniek-studeren",
+      "active-recall-studeren"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-taak-bg)",
+    "color_icon": "var(--event-taak-text)",
+    "words": 863,
+    "readingTime": 4
+  },
+  {
+    "slug": "pomodoro-methode-voor-scholieren",
+    "file": "pomodoro-methode-voor-scholieren.md",
+    "title": "De Pomodoro methode voor scholieren",
+    "description": "Ooit gehoord van pomodoro timers, die je kan gebruiken tijdens het leren?",
+    "icon": "timer",
+    "date": "2026-07-26",
+    "category": "Focus",
+    "tags": [
+      "pomodoro",
+      "timer",
+      "uitstelgedrag",
+      "pauzes"
+    ],
+    "related": [
+      "concentratie-verbeteren-leren",
+      "studieplanning-maken-tips",
+      "ideale-studieplek-inrichten"
+    ],
+    "author": "Team PWW Planner",
+    "image": "",
+    "color_bg": "var(--event-afspraak-bg)",
+    "color_icon": "var(--event-afspraak-text)",
+    "words": 889,
+    "readingTime": 4
+  }
+]
